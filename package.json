@@ -1,5 +1,5 @@
 {
-  "name": "ebay-node-api-2",
+  "name": "ebay-node-api",
   "version": "2.3.1",
   "description": "Ebay node api client",
   "main": "./src/index.js",
